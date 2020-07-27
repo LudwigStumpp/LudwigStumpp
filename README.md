@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi, I'm Ludwig 👋
+I use Github to make my contribution to a more educated world. Especially in the areas of Artificial Intelligence and Machine Learning, I notice the superficiality of society. There is much more than just empty hype. To call everything artificial intelligence is easy, but not to understand the manifold technologies behind it.
 
-<!--
-**LudwigStumpp/LudwigStumpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Current Projects
+Please head over to [my website](https://ludwigstumpp.github.io/) to see my latest projects.
 
-Here are some ideas to get you started:
+## 🌈 Languages & Libraries
+- Python, Tensorflow
+- HTML, CSS, JS, Vue
+- C, Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Work & Education
+Starting my Master's in Robotics, Cognition, Intelligence this year.
+
+## 🤙 Wanna collaborate?
+You have an interesting community-based open project, where you need some help? Reach out at [Twitter](https://twitter.com/ludwig_stumpp) and let's meet for a drink!
