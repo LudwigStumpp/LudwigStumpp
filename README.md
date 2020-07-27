@@ -5,7 +5,7 @@ I use Github to make my contribution to a more educated world. Especially in the
 Please head over to [my website](https://ludwigstumpp.github.io/) to see my latest projects.
 
 ## 🌈 Languages & Libraries
-- Python, Tensorflow
+- Python, Tensorflow, OpenAI Gym
 - HTML, CSS, JS, Vue
 - C, Java
 
