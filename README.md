@@ -11,7 +11,7 @@ Please head over to [my website](http://ludwigstumpp.com) to see my latest proje
 - German, English
 
 ## 💼 Work & Education
-Currently doing my Masters in Robotics, Cognition, Intelligence at TU Munich. In parallel, I am working as a Junior AI Engineer at Europe's largest initiative for applied Machine Learning.
+Currently doing my Masters in Robotics, Cognition, Intelligence at TU Munich. In parallel, I am working as an AI Engineer at Europe's largest initiative for applied Machine Learning.
 
 ## 🤙 Wanna collaborate?
 You have an interesting community-based open project, where you need some help? Reach out at [Twitter](https://twitter.com/ludwig_stumpp) and let's meet for a drink!
