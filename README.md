@@ -11,13 +11,16 @@ Please head over to [my website](http://ludwigstumpp.com) to see my latest proje
 ## 🌈 Languages & Libraries
 
 ### Machine Learning & Data Science
-<img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" height="48"> <img src="https://i.redd.it/c6h7rok9c2v31.jpg" height="48"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> <img src="https://user-images.githubusercontent.com/42147848/178567459-cb1bfe41-dee5-455b-af94-ce4d4f036295.png" height="48">
+<img src="https://img.icons8.com/color/48/000000/python.png"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" height="48"/> &nbsp; <img src="https://i.redd.it/c6h7rok9c2v31.jpg" height="48"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> &nbsp; <img src="https://user-images.githubusercontent.com/42147848/178567459-cb1bfe41-dee5-455b-af94-ce4d4f036295.png" height="48"/>
+
+### Hardware
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/217px-C_Programming_Language.svg.png" height="48"/> &nbsp; <img src="https://img.icons8.com/fluency/344/arduino.png" height="48"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/raspberry.png" height="48"/> &nbsp; <img src="https://www.atfiformation.fr/wp-content/uploads/2018/03/catiaV5.png" height="48"/> &nbsp; <img src="https://yt3.ggpht.com/ytc/AKedOLRs6t9k8adI1DVVHWAI9vMY2DW8PvseQHIU51GoRg=s900-c-k-c0x00ffffff-no-rj" height="48"/>
 
 ### Web Development
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/css3.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/javascript.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
 
 ### Software Development
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/217px-C_Programming_Language.svg.png" height="48"> <img src="https://img.icons8.com/color/48/000000/java.png"/>
+<img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_200x200.jpg" height="48"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png" height="48"/>
 
 ## 💼 Work & Education
 Currently doing my Masters in Robotics, Cognition, Intelligence at TU Munich. In parallel, I am working as an AI Engineer at Europe's largest initiative for applied Machine Learning.
