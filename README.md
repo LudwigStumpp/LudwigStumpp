@@ -16,16 +16,28 @@ Head over to [my website](http://ludwigstumpp.com) to see all of my past project
 ## 🌈 Languages & Libraries
 
 ### Machine Learning & Data Science
-<img src="https://img.icons8.com/color/48/000000/python.png"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" height="48"/> &nbsp; <img src="https://i.redd.it/c6h7rok9c2v31.jpg" height="48"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> &nbsp; <img src="https://user-images.githubusercontent.com/42147848/178567459-cb1bfe41-dee5-455b-af94-ce4d4f036295.png" height="48"/>
+[<img alt="Python" src="https://img.icons8.com/color/48/000000/python.png"/>](https://www.python.org/) &nbsp;
+[<img alt="Scikit Learn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" height="48"/>](https://scikit-learn.org/) &nbsp;
+[<img alt="Pandas" src="https://i.redd.it/c6h7rok9c2v31.jpg" height="48"/>](https://pandas.pydata.org/) &nbsp;
+[<img alt="Tensorflow" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>](https://www.tensorflow.org/) &nbsp;
+[<img alt="PyTorch" src="https://user-images.githubusercontent.com/42147848/178567459-cb1bfe41-dee5-455b-af94-ce4d4f036295.png" height="48"/>](https://pytorch.org/)
 
 ### Hardware
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/217px-C_Programming_Language.svg.png" height="48"/> &nbsp; <img src="https://img.icons8.com/fluency/344/arduino.png" height="48"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/raspberry.png" height="48"/> &nbsp; <img src="https://www.atfiformation.fr/wp-content/uploads/2018/03/catiaV5.png" height="48"/> &nbsp; <img src="https://yt3.ggpht.com/ytc/AKedOLRs6t9k8adI1DVVHWAI9vMY2DW8PvseQHIU51GoRg=s900-c-k-c0x00ffffff-no-rj" height="48"/>
+[<img alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/217px-C_Programming_Language.svg.png" height="48"/>](https://en.wikipedia.org/wiki/C_(programming_language)) &nbsp;
+[<img alt="Arduino" src="https://img.icons8.com/fluency/344/arduino.png" height="48"/>](https://www.arduino.cc/) &nbsp;
+[<img alt="Raspberry Pi" src="https://img.icons8.com/color/48/000000/raspberry.png" height="48"/>](https://www.raspberrypi.org/) &nbsp;
+[<img alt="Catia" src="https://www.atfiformation.fr/wp-content/uploads/2018/03/catiaV5.png" height="48"/>](https://www.3ds.com/products-services/catia/) &nbsp;
+[<img alt="Autodesk EAGLE" src="https://yt3.ggpht.com/ytc/AKedOLRs6t9k8adI1DVVHWAI9vMY2DW8PvseQHIU51GoRg=s900-c-k-c0x00ffffff-no-rj" height="48"/>](https://www.autodesk.com/products/eagle/overview)
 
 ### Web Development
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/css3.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/javascript.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+[<img alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png"/>](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) &nbsp;
+[<img alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png"/>](https://developer.mozilla.org/en-US/docs/Web/CSS) &nbsp;
+[<img alt="JS" src="https://img.icons8.com/color/48/000000/javascript.png"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;
+[<img alt="Vue.js" src="https://img.icons8.com/color/48/000000/vue-js.png"/>](https://vuejs.org/)
 
 ### Software Development
-<img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_200x200.jpg" height="48"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png" height="48"/>
+[<img alt="GitHub" src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_200x200.jpg" height="48"/>](https://github.com/about) &nbsp;
+[<img alt="VSCode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png" height="48"/>](https://code.visualstudio.com/)
 
 ## 💼 Work & Education
 Currently doing my Master's in Robotics, Cognition, Intelligence at TU Munich. Also worked 5 years at Audi and 2 years at appliedAI, Europe's largest initiative for the application of leading edge trustworthy AI technology with the vision to shape Europe’s innovative power in AI.
