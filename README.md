@@ -40,7 +40,7 @@ Head over to [my website](http://ludwigstumpp.com) to see all of my past project
 [<img alt="VSCode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png" height="48"/>](https://code.visualstudio.com/)
 
 ## 💼 Work & Education
-Currently doing my Master's in Robotics, Cognition, Intelligence at TU Munich. Also worked 5 years at Audi and 2 years at appliedAI, Europe's largest initiative for the application of leading edge trustworthy AI technology with the vision to shape Europe’s innovative power in AI.
+Currently doing my Master's in Robotics, Cognition, Intelligence at [TU Munich](https://www.tum.de/en/). Also worked 5 years at [Audi](https://www.audi.com) and 2 years at [appliedAI](https://www.appliedai.de/), Europe's largest initiative for the application of leading edge trustworthy AI technology with the vision to shape Europe’s innovative power in AI.
 
 ## 🤙 Wanna collaborate?
 You have an interesting community-based open project, where you need some help? Reach out at [Twitter](https://twitter.com/ludwig_stumpp) and let's meet for a drink!
