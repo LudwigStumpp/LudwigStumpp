@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ludwig_stumpp?color=%231DA1F2&label=Follow&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/ludwig_stumpp)
 [![Github Follow](https://img.shields.io/github/followers/LudwigStumpp?color=%23171515&label=Follow&logo=github&logoColor=%23171515&style=for-the-badge)](https://github.com/LudwigStumpp)
 
-My ultimate goal is to spend my 80,000 working hours with a lasting effect on our world.  I believe that technology is there to solve problems, so let's start with engineering today, for a better planet.
+My ultimate goal is to spend my 80,000 working hours with a lasting effect on our world. I believe that technology is there to solve problems, so let's start with engineering today, for a better planet.
 
 Also, I believe in a more enlightened world where there are less prejudices against new perspectives and upcoming technology, so I do my best to contribute to a world where access to high quality educational content is not restricted to the priviledged only.
 
