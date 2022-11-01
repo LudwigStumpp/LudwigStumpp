@@ -3,7 +3,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ludwig_stumpp?color=%231DA1F2&label=Follow&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/ludwig_stumpp)
 [![Github Follow](https://img.shields.io/github/followers/LudwigStumpp?color=%23171515&label=Follow&logo=github&logoColor=%23171515&style=for-the-badge)](https://github.com/LudwigStumpp)
 
-I use Github to make my contribution to a more educated world. Especially in the areas of Artificial Intelligence and Machine Learning, I notice the superficiality of society. There is much more than just empty hype. To call everything artificial intelligence is easy, but not to understand the manifold technologies behind it.
+My ultimate goal is to spend my 80,000 working hours with a lasting effect on our world.  I believe that technology is there to solve problems, so let's start with engineering today, for a better planet.
+
+Also, I believe in a more enlightened world where there are less prejudices against new perspectives and upcoming technology, so I do my best to contribute to a world where access to high quality educational content is not restricted to the priviledged only.
+
+I'm a big fan of intelligent autonomous systems like autonomous cars, robots, spaceships, and machine learning and trying to keep myself well educated in this direction.
 
 ## 🚀 Personal Projects
 - [ML Starter-Kit](https://mlstarterkit.com): Collection of free and high quality resources for getting started in the field of Machine Learning. It is the first collection of its kind that combines courses, books, blogs, movies and many more into one single collection and has already helped more than 10.000 users worldwide!
