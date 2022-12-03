@@ -13,8 +13,8 @@ I'm a big fan of intelligent autonomous systems like autonomous cars, robots, sp
 - [ML Starter-Kit](https://mlstarterkit.com): Collection of free and high quality resources for getting started in the field of Machine Learning. It is the first collection of its kind that combines courses, books, blogs, movies and many more into one single collection and has already helped more than 10.000 users worldwide!
 - [ML Baselines](https://ludwigstumpp.com/ml-baselines): Collection of baselines for various machine learning tasks to help you get first results quickly and iterate from there.
 - [Twitter Toxicity](https://github.com/LudwigStumpp/twitter-toxicity): A Chrome browser plugin to evaluate the toxicity level of Twitter Tweets and highlight the most toxic ones.
-- [Arduino Workout Classification](https://github.com/LudwigStumpp/arduino-workout-classification): Classifying workout exercises on an Arduino Nano 33 BLE Sense board.
 - [Zero Shot Captcha Solver](https://github.com/LudwigStumpp/zero-shot-captcha-solver): Solving captchas with the help of the multimodal vision and language model CLIP.
+- [Arduino Workout Classification](https://github.com/LudwigStumpp/arduino-workout-classification): Classifying workout exercises on an Arduino Nano 33 BLE Sense board.
 
 Head over to [my website](http://ludwigstumpp.com) to see all of my past projects.
 
