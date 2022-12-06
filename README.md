@@ -24,6 +24,7 @@ Head over to [my website](http://ludwigstumpp.com) to see all of my past project
 [<img alt="Python" src="https://img.icons8.com/color/48/000000/python.png"/>](https://www.python.org/) &nbsp;
 [<img alt="Scikit Learn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" height="48"/>](https://scikit-learn.org/) &nbsp;
 [<img alt="Pandas" src="https://i.redd.it/c6h7rok9c2v31.jpg" height="48"/>](https://pandas.pydata.org/) &nbsp;
+[<img alt="NumPy" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" height="48"/>](https://numpy.org/) &nbsp;
 [<img alt="Tensorflow" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>](https://www.tensorflow.org/) &nbsp;
 [<img alt="PyTorch" src="https://user-images.githubusercontent.com/42147848/178567459-cb1bfe41-dee5-455b-af94-ce4d4f036295.png" height="48"/>](https://pytorch.org/)
 
@@ -38,7 +39,8 @@ Head over to [my website](http://ludwigstumpp.com) to see all of my past project
 [<img alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png"/>](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) &nbsp;
 [<img alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png"/>](https://developer.mozilla.org/en-US/docs/Web/CSS) &nbsp;
 [<img alt="JS" src="https://img.icons8.com/color/48/000000/javascript.png"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;
-[<img alt="Vue.js" src="https://img.icons8.com/color/48/000000/vue-js.png"/>](https://vuejs.org/)
+[<img alt="Vue.js" src="https://img.icons8.com/color/48/000000/vue-js.png"/>](https://vuejs.org/) &nbsp;
+[<img alt="Streamlit" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="48"/>](https://streamlit.io/)
 
 ### Software Development
 [<img alt="GitHub" src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_200x200.jpg" height="48"/>](https://github.com/about) &nbsp;
