@@ -43,7 +43,7 @@ Head over to [my website](http://ludwigstumpp.com) to see all of my past project
 [<img alt="Streamlit" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="48"/>](https://streamlit.io/)
 
 ### Software Development
-[<img alt="GitHub" src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_200x200.jpg" height="48"/>](https://github.com/about) &nbsp;
+[<img alt="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="48"/>](https://github.com/about) &nbsp;
 [<img alt="VSCode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png" height="48"/>](https://code.visualstudio.com/)
 
 ## 💼 Work & Education
