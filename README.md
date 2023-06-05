@@ -28,26 +28,13 @@ Head over to [my website](http://ludwigstumpp.com) to see all of my past project
 [<img alt="Tensorflow" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>](https://www.tensorflow.org/) &nbsp;
 [<img alt="PyTorch" src="https://user-images.githubusercontent.com/42147848/178567459-cb1bfe41-dee5-455b-af94-ce4d4f036295.png" height="48"/>](https://pytorch.org/)
 
-### Hardware
-[<img alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/217px-C_Programming_Language.svg.png" height="48"/>](https://en.wikipedia.org/wiki/C_(programming_language)) &nbsp;
-[<img alt="Arduino" src="https://img.icons8.com/fluency/344/arduino.png" height="48"/>](https://www.arduino.cc/) &nbsp;
-[<img alt="Raspberry Pi" src="https://img.icons8.com/color/48/000000/raspberry.png" height="48"/>](https://www.raspberrypi.org/) &nbsp;
-[<img alt="Catia" src="https://www.atfiformation.fr/wp-content/uploads/2018/03/catiaV5.png" height="48"/>](https://www.3ds.com/products-services/catia/) &nbsp;
-[<img alt="Autodesk EAGLE" src="https://yt3.ggpht.com/ytc/AKedOLRs6t9k8adI1DVVHWAI9vMY2DW8PvseQHIU51GoRg=s900-c-k-c0x00ffffff-no-rj" height="48"/>](https://www.autodesk.com/products/eagle/overview)
-
 ### Web Development
-[<img alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png"/>](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) &nbsp;
-[<img alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png"/>](https://developer.mozilla.org/en-US/docs/Web/CSS) &nbsp;
-[<img alt="JS" src="https://img.icons8.com/color/48/000000/javascript.png"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;
-[<img alt="Vue.js" src="https://img.icons8.com/color/48/000000/vue-js.png"/>](https://vuejs.org/) &nbsp;
 [<img alt="Streamlit" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="48"/>](https://streamlit.io/)
+[<img alt="Vue.js" src="https://img.icons8.com/color/48/000000/vue-js.png"/>](https://vuejs.org/) &nbsp;
 
 ### Software Development
 [<img alt="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="48"/>](https://github.com/about) &nbsp;
 [<img alt="VSCode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png" height="48"/>](https://code.visualstudio.com/)
-
-## 💼 Work & Education
-Currently doing my Master's in Robotics, Cognition, Intelligence at [TU Munich](https://www.tum.de/en/) where I've just started working on my master's thesis together with [BMW AG](https://www.bmw.de/de/home.html). Also worked 5 years at [Audi](https://www.audi.com) and 2 years at [appliedAI](https://www.appliedai.de/), Europe's largest initiative for the application of leading edge trustworthy AI technology with the vision to shape Europe’s innovative power in AI. Check my [website](https://ludwigstumpp.com/work) for a more detailed list.
 
 ## 🤙 Wanna collaborate?
 You have an interesting community-based open project, where you need some help? Reach out at [Twitter](https://twitter.com/ludwig_stumpp) and let's meet for a drink!
