@@ -1,3 +1,5 @@
+![KI Park Heilbronn](https://file.notion.so/f/s/d8c2575b-9886-451e-88ce-50e8343779a5/copy3.jpg?id=ea105fa4-1b30-428f-aaef-dfabf0ccdae0&table=block&spaceId=d8bd58b7-a274-49e3-a432-c5e0801b9dfd&expirationTimestamp=1687090186106&signature=g7zdTxSBTm6OgfZhp0LcOOQWkhoja8Snqv1ycMNsuBA&downloadName=copy3.jpg)
+
 # Hi, I'm Ludwig 👋
 [![Connect](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludwigstumpp/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ludwig_stumpp?color=%231DA1F2&label=Follow&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/ludwig_stumpp)
