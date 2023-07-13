@@ -1,4 +1,4 @@
-![KI Park Heilbronn](https://file.notion.so/f/s/d8c2575b-9886-451e-88ce-50e8343779a5/copy3.jpg?id=ea105fa4-1b30-428f-aaef-dfabf0ccdae0&table=block&spaceId=d8bd58b7-a274-49e3-a432-c5e0801b9dfd&expirationTimestamp=1687090186106&signature=g7zdTxSBTm6OgfZhp0LcOOQWkhoja8Snqv1ycMNsuBA&downloadName=copy3.jpg)
+![KI Park Heilbronn](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd8c2575b-9886-451e-88ce-50e8343779a5%2Fcopy3.jpg?id=ea105fa4-1b30-428f-aaef-dfabf0ccdae0&table=block&spaceId=d8bd58b7-a274-49e3-a432-c5e0801b9dfd&width=2000&userId=073cd3cd-e5e2-44dc-a627-76f75c68dbc2&cache=v2)
 
 # 👋 Hi, I'm Ludwig
 
