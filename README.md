@@ -1,4 +1,4 @@
-![KI Park Heilbronn](https://file.notion.so/f/f/d8bd58b7-a274-49e3-a432-c5e0801b9dfd/d8c2575b-9886-451e-88ce-50e8343779a5/copy3.jpg?table=block&id=ea105fa4-1b30-428f-aaef-dfabf0ccdae0&spaceId=d8bd58b7-a274-49e3-a432-c5e0801b9dfd&expirationTimestamp=1730476800000&signature=3A3JmAK607nF1He87FvFJTisYpYatr__BZdI1noeV3w&downloadName=copy3.jpg)
+![KI Park Heilbronn](assets/ipai_vision.jpg)
 
 # 👋 Hi, I'm Ludwig
 
