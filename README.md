@@ -8,6 +8,6 @@ Currently on a mission to build the largest AI Ecosystem in Europe together with
 
 I believe in a more enlightened world where there are less prejudices against new perspectives and upcoming technology, so I do my best to contribute to a world where access to high quality educational content is not restricted to the priviledged only. Doing so by contributing to Open-Source projects.
 
-## 🤙Want to read more?
+## 🤙 Want to read more?
 
 Too keep things DRY I have compiled an overview about my current projects at my [website](https://ludwigstumpp.com). Happy to see you there!
