@@ -4,7 +4,7 @@
 
 My ultimate goal is to spend my 80,000 working hours with a lasting effect on our world. I believe that technology is there to solve problems, so let's start with engineering today, for a better planet.
 
-Currently on a mission to build the largest AI Ecosystem in Europe together with [appliedAI](https://www.appliedai.de/) and [IPAI](https://ip.ai/en/) at Heilbronn. 
+Currently on a mission to build the largest AI Ecosystem in Europe together with [appliedAI](https://www.appliedai.de/) and [IPAI](https://ip.ai/en/) at Heilbronn. Working as an AI Engineer with our partners on value-adding AI projects, in particular at the intersection of technical software development and customer-facing project management, with a focus on Large Language Model applications.
 
 I believe in a more enlightened world where there are less prejudices against new perspectives and upcoming technology, so I do my best to contribute to a world where access to high quality educational content is not restricted to the priviledged only. Doing so by contributing to Open-Source projects.
 
